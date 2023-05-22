@@ -1,17 +1,16 @@
 
-# Java 10 day Challenge by Telusko
+# Product Management Project at Console Level
 
 This repository consists of the all the 10 days Challenge tutorials with neat explanation with coding & Notes
 
 
 
-
 ## Run Locally
 
-Clone the project and Run
+Clone the project and Run Main.java 
 
 ```bash
-  git clone https://github.com/ManyamSanjayKumarReddy/Java-Challenge-Telusko.git
+  https://github.com/ManyamSanjayKumarReddy/Project-on-Product-Management-Console-Based.git
 ```
 
 
